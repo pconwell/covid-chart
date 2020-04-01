@@ -1,8 +1,4 @@
-sudo: required
 services: docker
-language: python
-python: 3.8
-
 
 script:
    - docker build -t covid .
