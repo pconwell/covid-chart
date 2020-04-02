@@ -20,7 +20,6 @@ Click on `covid.ipynb` above and view the data in github's built-in viewer (only
 The token will be generated when you run `docker run ...` and a link will be generated in your terminal. Paste the link in to Chrome (or whatever browser).
 
 ## Harder
-> Assuming you already have docker set up
 > I want to make changes to the code and/or I want to contribute to this project
 
 1. Set up docker and git
