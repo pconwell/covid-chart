@@ -9,6 +9,8 @@
 Click on `covid.ipynb` above and view the data in github's built-in viewer (only works on desktop)
 
 ## Easier
+> NOTE: This doesn't work unless you authenticate first because github is being difficult
+
 > I want to play with the jupyter notebook but I don't care about making changes to the code
 
 1. Set up docker
