@@ -14,4 +14,4 @@ WORKDIR src/
 COPY . .
 
 # start the jupyter server
-CMD ["jupyter", "notebook", "--port=8880", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
+CMD ["jupyter", "notebook", "--port=8880", "--no-browser", "--ip=0.0.0.0", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]
