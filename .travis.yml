@@ -1,9 +1,9 @@
-os: linux
-dist: xenial
-language: python
-
-services: docker
-
-script:
-   - docker build -t covid .
-   # - docker run -it -p 8880:8880 covid
+#os: linux
+#dist: xenial
+#language: python
+#
+#services: docker
+#
+#script:
+#   - docker build -t covid .
+#   # - docker run -it -p 8880:8880 covid
